@@ -1,2 +1,29 @@
-# music_convert
-Convert music format mp3, mp4, avi, mov, wav
+# Conver music
+
+Convert music in format mp3,mp4,mov,avi,wav.
+File will be converter to the same place like file converted.
+
+![obraz](https://github.com/dsamsoniuk/music_convert/blob/master/screen/screen.PNG)
+
+### How start
+
+#### Linux
+
+Require:
+* python3
+* lib ffmpeg
+
+```bash
+#install library
+sudo apt install ffmpeg
+
+#start program
+python3 index.py
+```
+
+#### Windows
+Copy file from directory /dist/conver_music.exe to desktop and double click will start program.
+
+Enjoy!
+
+
