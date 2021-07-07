@@ -3,7 +3,7 @@
 Convert music in format mp3,mp4,mov,avi,wav.
 File will be converter to the same place like file converted.
 
-![obraz](https://github.com/dsamsoniuk/music_convert/blob/master/screen/screen.PNG)
+![obraz](https://github.com/dsamsoniuk/music_convert/blob/main/screen.png)
 
 ### How start
 
